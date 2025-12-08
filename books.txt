@@ -1,0 +1,3 @@
+B1005,The Alchemist,Paulo Cohelo,5
+B006,A Brief History of Time,Stephen Hawikng,10
+B1001,The Man,Pablo,4
